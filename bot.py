@@ -46,8 +46,8 @@ WEBHOOK_SECRET_PATH = os.environ.get("WEBHOOK_SECRET_PATH", BOT_TOKEN)
 
 DEFAULT_AWAY_MESSAGE = "I'm away right now, but I'll get back to you soon."
 
-DEFAULT_START_MESSAGE = """𓂃🌷𓂃  𝐅𝐚𝐥𝐥𝐞𝐧𓂃🌷𓂃
-             𝑫𝑴 𝑪𝒐𝒓𝒏𝒆𝒓
+DEFAULT_START_MESSAGE = """𓂃🌷𓂃 𝑫𝑴 𝑪𝒐𝒓𝒏𝒆𝒓 𓂃🌷𓂃
+
 
 👋 𝑯𝒆𝒚, {first_name}
 𝒴𝑜𝓊'𝓇𝑒 𝓌𝑒𝓁𝒸𝑜𝓂𝑒 𝒽𝑒𝓇𝑒 ✨
@@ -56,7 +56,7 @@ DEFAULT_START_MESSAGE = """𓂃🌷𓂃  𝐅𝐚𝐥𝐥𝐞𝐧𓂃🌷𓂃
 𝒲𝒽𝒶𝓉𝑒𝓋𝑒𝓇 𝓎𝑜𝓊 𝓌𝒶𝓃𝓉 𝓉𝑜 𝓈𝒶𝓎, 𝒿𝓊𝓈𝓉
 𝓉𝓎𝓅𝑒 𝒾𝓉 𝒷𝑒𝓁𝑜𝓌. 💭
 🌷 𝒯𝒽𝒶𝓃𝓀 𝓎𝑜𝓊 𝒻𝑜𝓇 𝓇𝑒𝒶𝒸𝒽𝒾𝓃𝑔 𝑜𝓊𝓉 ♡ ❞
-{username} 𝐅𝐚𝐥𝐥𝐞𝐧 ɪs ᴏғʟɪɴᴇ ᴡᴇ  ғᴇᴛᴄʜ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ shortly"""
+{username} Owner ɪs ᴏғʟɪɴᴇ ᴡᴇ  ғᴇᴛᴄʜ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ shortly"""
 
 # Customize via the START_MESSAGE env var (use {first_name} and {username}
 # as placeholders). Falls back to DEFAULT_START_MESSAGE above if unset.
