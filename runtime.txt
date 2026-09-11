@@ -1,3 +1,0 @@
-python-telegram-bot[webhooks]==21.6
-anthropic>=0.40.0
- 
