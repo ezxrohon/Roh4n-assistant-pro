@@ -48,7 +48,6 @@ DEFAULT_AWAY_MESSAGE = "I'm away right now, but I'll get back to you soon."
 
 DEFAULT_START_MESSAGE = """𓂃🌷𓂃 𝑫𝑴 𝑪𝒐𝒓𝒏𝒆𝒓 𓂃🌷𓂃
 
-
 👋 𝑯𝒆𝒚, {first_name}
 𝒴𝑜𝓊'𝓇𝑒 𝓌𝑒𝓁𝒸𝑜𝓂𝑒 𝒽𝑒𝓇𝑒 ✨
 
