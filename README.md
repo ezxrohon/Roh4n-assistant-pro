@@ -1,3 +1,11 @@
+╭────────────────────────────────────────╮
+│                                        │
+│     🫧 🦋  ʀ ᴏ ʜ 4 ɴ ' s  ᴀ s s ɪ s ᴛ ᴀ ɴ ᴛ     │
+│                                        │
+│      ───  i n t e l l i g e n c e  ───      │
+│                                        │
+╰────────────────────────────────────────╯
+
 # Livegram-style Relay Bot
 
 A Telegram bot that works like @LivegramBot: users message the bot, their
