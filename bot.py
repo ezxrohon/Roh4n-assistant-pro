@@ -173,7 +173,6 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if user.id == ADMIN_ID:
         await update.message.reply_text(
             _card(
-              https://graph.org/file/8c25e37e7290462f63234-c7692ef2b821d2b158.jpg
                 f"👋 Welcome back, {first_name}",
                 "Every message a user sends me will be relayed here, with quick "
                 "reply buttons attached. Reply directly to a relayed message and "
