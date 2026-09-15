@@ -173,7 +173,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if user.id == ADMIN_ID:
         await update.message.reply_text(
             _card(
-                f"👋 Welcome back, {first_name}",
+                f"👋 Welcome back, Admin",
                 "Every message a user sends me will be relayed here, with quick "
                 "reply buttons attached. Reply directly to a relayed message and "
                 "I'll deliver your reply back to that user.\n\n"
